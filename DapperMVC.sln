@@ -7,11 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperMVC.Ui", "DapperMVC.U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperMVC.Data", "DapperMVC.Data\DapperMVC.Data.csproj", "{C14EED33-FB64-4F20-B0FB-277422342312}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{582FB9C4-429A-473D-AFF6-E187DD3BF041}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\person.bacpac = ..\..\..\Desktop\person.bacpac
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
